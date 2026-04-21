@@ -10,9 +10,12 @@ CivicConnect is a web-based platform that allows citizens to report city issues 
 ---
 
 ## **Team Info**
-**Name:** - DevFusion
-**Team Id:** - CC3H-242
-**Members:** - 
+
+###**Name:** - DevFusion
+
+###**Team Id:** - CC3H-242
+
+###**Members:** - 
 1. Sagar (Leader)
 2. Dushyant
 3. Manul Sahu
